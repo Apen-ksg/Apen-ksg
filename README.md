@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Apen-ksg
-- 👀 I’m interested in Composing
-- 🌱 I’m currently learning Drawing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Good morning, sir
 
-<!---
-Apen-ksg/Apen-ksg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+it's an honor for you if you visit my profile.
+
+🎛️ I’m interested in Composing music
+
+🎨 I’m currently learning JavaScript and Python language
+
